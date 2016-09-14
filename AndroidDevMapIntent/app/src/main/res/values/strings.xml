@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">AndroidDevMapIntent</string>
+    <string name="locationQuestion">Give a location</string>
+    <string name="longitude">Longitude:</string>
+    <string name="latitude">Latitude:</string>
+    <string name="showButtonText">Show a Map</string>
+    <string name="parseFormatException">Wrong number format</string>
 </resources>
